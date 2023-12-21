@@ -1,0 +1,9 @@
+.code-workspace
+.vscode
+.certs
+bin
+
+*.sqlite
+*.code-workspace
+
+.DS_Store
